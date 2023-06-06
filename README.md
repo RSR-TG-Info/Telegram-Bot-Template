@@ -1,4 +1,4 @@
-A simple Telegram Bot template for beginner using <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a>
+A simple Telegram Bot template for beginners using <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a>
 
 # Deploy(VPS)
 <p>
