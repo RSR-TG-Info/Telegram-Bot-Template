@@ -1,4 +1,5 @@
-<details><summary>Deploy(VPS)</summary>
+# Deploy(VPS)
+<details>
 <p>
 <pre>
 git clone (your repository link)
