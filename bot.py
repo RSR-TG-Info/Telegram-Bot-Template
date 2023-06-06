@@ -1,9 +1,8 @@
-import os
-from pyrogram import Client, filters
+from pyrogram import Client
 from rsrconfig import Config
 
 app = Client(
-    "Tlangvaltea",
+    "Test Bot",
     bot_token=Config.BOT_TOKEN,
     api_id=Config.API_ID,
     api_hash=Config.API_HASH,
