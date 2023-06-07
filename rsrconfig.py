@@ -1,6 +1,6 @@
 class Config(object):
 
-    #Get a bot token from botfather
+    #Get a bot token from @botfather in Telegram
     BOT_TOKEN = "Bot token" #Replace Bot token
 
     #Get from my.telegram.org
