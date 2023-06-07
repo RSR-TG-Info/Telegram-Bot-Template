@@ -10,3 +10,6 @@ python3 bot.py
 </pre>
 </p>
 
+# Credit
+● <a href="https://github.com/RSR-TG-Info">RSR</a>
+
