@@ -1,4 +1,4 @@
-A simple Telegram Bot template for beginners. The code was written in <a href="https://www.python.org/">Python</a>, <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a>
+A simple Telegram Bot template for beginners. This code was written in <a href="https://www.python.org/">Python</a>, <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a>
 
 # Install locally or on a VPS
 <p>
