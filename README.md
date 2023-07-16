@@ -10,7 +10,5 @@ python3 bot.py
 </pre>
 </p>
 
-Demo - <a href="https://t.me/mzztestbot">Mizo Test</a> (But, It will not work sometimes)
-
 Copyright ©️ 2023 <a href="https://github.com/RSR-TG-Info">RSR</a>
 
