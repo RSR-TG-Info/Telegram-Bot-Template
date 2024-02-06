@@ -10,5 +10,5 @@ python3 bot.py
 </pre>
 </p>
 
-Copyright ©️ 2023 <a href="https://github.com/RSR-TG-Info">RSR</a>
+Copyright ©️ 2024 <a href="https://github.com/RSR-TG-Info">RSR</a>
 
